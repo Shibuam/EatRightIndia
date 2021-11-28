@@ -1,0 +1,46 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.row2{
+    padding: 10px 100px ;
+}
+.col2{
+    text-align: right;
+    
+}
+.row3{
+    padding: 10px 0px ;
+}
+.img1 img{
+    padding: 10px 0px;
+}
+@media screen and (max-width: 600px) {
+    div.col2 {
+      display: none;
+    }
+  }
+  .row6{
+
+    background-color: #eee;
+    width: 350px;
+    height: 200px;
+    
+    overflow:scroll;
+}
+.row5{
+  
+    column-gap: 10px;
+}
+.row7{
+    margin: 20px 0;
+    text-align: center;
+}
+.btn1{
+    text-align: center;
+}
+.img{
+    padding: 0%;
+    margin: 0%;
+}
+
